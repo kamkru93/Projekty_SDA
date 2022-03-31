@@ -1,1 +1,2 @@
-# Projekty_SDA
+# Moje_Projekty
+Projekty, które zrealizowałem podczas szkolenia
